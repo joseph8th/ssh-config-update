@@ -1,0 +1,4 @@
+#+TITLE: ssh-config-update
+#+AUTHOR: Joseph Edwards VIII
+
+Update your ~.ssh/config~ file from AWS EC2 instances.
